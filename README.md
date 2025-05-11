@@ -1,1 +1,1 @@
-# 🛡️ Red Team Operator & Malware Development
+# Red Team Operator | Malware Development
