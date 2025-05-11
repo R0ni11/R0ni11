@@ -1,16 +1,25 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="banner.png" width="100%" alt="Hi, I'm …">
+</p>
 
-<!--
-**R0ni11/R0ni11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 About&nbsp;Me
+Short intro, favorite stack, current focus.
 
-Here are some ideas to get you started:
+### 🚀 Latest&nbsp;Projects
+- **Project A** – one-liner + badge links
+- **Project B** – …
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech&nbsp;Skills
+![Python](https://img.shields.io/badge/-Python-05122A?logo=python)
+![Rust](https://img.shields.io/badge/-Rust-05122A?logo=rust)
+<!-- more shields -->
+
+### 📊 GitHub&nbsp;Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=<user>&show_icons=true)
+
+### ✍️ Recent&nbsp;Blog&nbsp;Posts
+<!-- auto-filled by a GitHub Action, see step 4 -->
+
+### 🤝 Connect&nbsp;With&nbsp;Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=Linkedin&logoColor=white)](https://linkedin.com/in/<user>)
