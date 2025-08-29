@@ -3,6 +3,10 @@
 **Red Team Operator · Malware R\&D · Adversary Emulation**
 
 <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWR1OHU5NzdncGRidjE5ZzMyYzZvYnl3cWlrbTA3bTZ1MHBvZ2hvbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gGC6a1N8Vd0uW/giphy.gif" width="400" alt="Johan Liebert">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Focus-Adversary%20Emulation-informational" />
   <img src="https://img.shields.io/badge/Domains-Windows%20Internals%20%7C%20EDR%20Evasion%20%7C%20Transports-9cf" />
   <img src="https://img.shields.io/badge/Languages-Python%20%7C%20Go%20%7C%20Rust%20%7C%20C%2FC%2B%2B-blue" />
