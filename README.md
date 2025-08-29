@@ -3,7 +3,7 @@
 **Red Team Operator · Malware R\&D · Adversary Emulation**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/njH4f6IJ38WnB1L17F/giphy.gif" width="400" alt="Johan Liebert">
+  <img src="https://i.pinimg.com/originals/6d/05/6f/6d056f6e24224e6acfe2d8a4d6eb5bf8.gif" width="800" alt="Johan Liebert">
 </p>
 
 <p align="center">
